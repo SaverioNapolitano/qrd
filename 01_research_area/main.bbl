@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~30, 2017.
+
+\bibitem{Hadi_2025}
+Muhammad~Usman Hadi, Qasem~Al Tashi, Rizwan Qureshi, Abbas Shah, Amgad Muneer, Muhammad Irfan, Anas Zafar, Muhammad~Bilal Shaikh, Naveed Akhtar, Syed~Zohaib Hassan, Maged Shoman, Jia Wu, Seyedali Mirjalili, and Mubarak Shah.
+\newblock Large language models: A comprehensive survey of its applications, challenges, limitations, and future prospects.
+\newblock February 2025.
+
+\bibitem{Annepaka2025}
+Yadagiri Annepaka and Partha Pakray.
+\newblock Large language models: a survey of their development, capabilities, and applications.
+\newblock {\em Knowledge and Information Systems}, 67(3):2967--3022, March 2025.
+
+\bibitem{10720163}
+Minghao Shao, Abdul Basit, Ramesh Karri, and Muhammad Shafique.
+\newblock Survey of different large language model architectures: Trends, benchmarks, and challenges.
+\newblock {\em IEEE Access}, 12:188664--188706, 2024.
+
+\bibitem{10386743}
+Jiayang Wu, Wensheng Gan, Zefeng Chen, Shicheng Wan, and Philip~S. Yu.
+\newblock Multimodal large language models: A survey.
+\newblock In {\em 2023 IEEE International Conference on Big Data (BigData)}, pages 2247--2256, 2023.
+
+\bibitem{pmlr-v139-radford21a}
+Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever.
+\newblock Learning transferable visual models from natural language supervision.
+\newblock In Marina Meila and Tong Zhang, editors, {\em Proceedings of the 38th International Conference on Machine Learning}, volume 139 of {\em Proceedings of Machine Learning Research}, pages 8748--8763. PMLR, 18--24 Jul 2021.
+
+\bibitem{ABDULGALIL2025100159}
+Huda~Diab Abdulgalil and Otman~A. Basir.
+\newblock Next-generation image captioning: A survey of methodologies and emerging challenges from transformers to multimodal large language models.
+\newblock {\em Natural Language Processing Journal}, 12:100159, 2025.
+
+\bibitem{app131911103}
+Oscar Ondeng, Heywood Ouma, and Peter Akuon.
+\newblock A review of transformer-based approaches for image captioning.
+\newblock {\em Applied Sciences}, 13(19), 2023.
+
+\bibitem{11094992}
+Andrew~Z. Wang, Songwei Ge, Tero Karras, Ming-Yu Liu, and Yogesh Balaji.
+\newblock A comprehensive study of decoder-only llms for text-to-image generation.
+\newblock In {\em 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, pages 28575--28585, 2025.
+
+\end{thebibliography}
