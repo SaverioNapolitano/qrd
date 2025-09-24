@@ -1,5 +1,5 @@
 \documentclass[12pt]{beamer}
-
+ 
 % ****************
 % ***** INFO *****
 % ****************
@@ -26,7 +26,7 @@
 \usepackage{helvet}
 \renewcommand{\familydefault}{\sfdefault}
 \setbeamertemplate{frametitle continuation}{\gdef\beamer@frametitle{}}
-\setbeamertemplate{footline}{}
+\setbeamertemplate{footline}[frame number]{}
 
 % *****************
 % ***** CODE *****
@@ -109,7 +109,7 @@
 \begin{frame}{}
 %\vspace{\fill}
 
-%\includegraphics[width=0.16\linewidth]{example-image}
+\includegraphics[width=0.16\linewidth]{figures/logo.png}
 
 \vspace{\fill}
 
@@ -146,7 +146,7 @@
 % *****************
 % ***** START *****
 % *****************
-\begin{frame}[allowframebreaks]{Outline}
+\begin{frame}[allowframebreaks]{Overview}
 \begin{itemize}
     \item Transformer 
     \begin{itemize}
@@ -176,7 +176,7 @@
 \begin{frame}[allowframebreaks]{Attention}
     \begin{figure}
         \centering
-        \includegraphics[height=0.6\textheight]{figures/attention.png}
+        \includegraphics[height=0.5\textheight]{figures/attention.png}
         \caption{(left) Scaled Dot-Product Attention (right) Multi-Head Attention consists of several attention layers running in parallel. Reprinted from Figure 2 in Vaswani et al. (2017)~\cite{vaswani2017attention}.}
         \label{fig:Fig. 2}
     \end{figure}
@@ -185,7 +185,7 @@
 \begin{frame}[allowframebreaks]{Large Language Model (LLM)}
     \begin{figure}
         \centering
-        \includegraphics[height=0.6\textheight]{figures/lm_taxonomy.png}
+        \includegraphics[height=0.64\textheight]{figures/lm_taxonomy.png}
         \caption{Types of language modeling. Reprinted from Figure 1 in Hadi et al. (2025)~\cite{Hadi_2025}.}
         \label{fig:Fig. 3}
     \end{figure}
@@ -194,7 +194,7 @@
 \begin{frame}[allowframebreaks]{Large Language Model (LLM)}
     \begin{figure}
         \centering
-        \includegraphics[height=0.6\textheight]{figures/lm_history.png}
+        \includegraphics[height=0.64\textheight]{figures/lm_history.png}
         \caption{Brief history of language modeling. Reprinted from Figure 3 in Annepaka et al. (2025)~\cite{Annepaka2025}.}
         \label{fig:Fig. 4}
     \end{figure}
@@ -203,7 +203,7 @@
 \begin{frame}[allowframebreaks]{Large Language Model (LLM)}
     \begin{figure}
         \centering
-        \includegraphics[height=0.6\textheight]{figures/llm_evolution.png}
+        \includegraphics[height=0.59\textheight]{figures/llm_evolution.png}
         \caption{Evolutionary tree illustrating the progression of mainstream LLMs. Reprinted from Figure 12 in Shao et al. (2024)~\cite{10720163}.}
         \label{fig:Fig. 5}
     \end{figure}
@@ -230,7 +230,7 @@
 \begin{frame}[allowframebreaks]{Contrastive Language Image Pre-training (CLIP)}
     \begin{figure}
         \centering
-        \includegraphics[height=0.5\textheight]{figures/clip.png}
+        \includegraphics[height=0.56\textheight]{figures/clip.png}
         \caption{CLIP architecture and training. Reprinted from Figure 1 in Radford et al. (2021)~\cite{pmlr-v139-radford21a}.}
         \label{fig:Fig. 8}
     \end{figure}
@@ -248,7 +248,7 @@
 \begin{frame}[allowframebreaks]{Large Language Model for Image Captioning}
     \begin{figure}
         \centering
-        \includegraphics[width=0.9\linewidth]{figures/transformer_image_captioning.png}
+        \includegraphics[width=0.99\linewidth]{figures/transformer_image_captioning.png}
         \caption{Development of captioning structures and systems. Reprinted from Figure 1 in Ondeng et al. (2023)~\cite{app131911103}.}
         \label{fig:Fig. 10}
     \end{figure}
