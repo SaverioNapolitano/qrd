@@ -4,3 +4,29 @@
 /Identifying Parking Spaces  Detecting Occupancy Using Vision-based IoT Devices (2).pdf
 /ak2021effect_PCS2021 (1).pdf
 /lyko2023differential (1).pdf
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# beamer
+*.nav
+*.snm
+*.vrb
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex.gz
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.blg
